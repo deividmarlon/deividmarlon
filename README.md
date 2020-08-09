@@ -2,7 +2,7 @@
 
 # Deivid Márlon
 
-## Olá pessoal 👋
+## Fala moçada! 👋
 Estou cursando segundo ano em Ciência da Computação. E fico cada vez mais adrenalizado com esta área! 
 
  :rocket:  &nbsp; Estou estudando na **UNIOESTE**
